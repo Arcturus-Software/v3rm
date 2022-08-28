@@ -1,1 +1,1 @@
-{hwid,hwid,hwid,hwid}
+{860A7E91-94AB-4FAB-BD97-F740A2AF8AF1,hwid,hwid,hwid}
